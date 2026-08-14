@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0904-fruit-into-baskets) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
