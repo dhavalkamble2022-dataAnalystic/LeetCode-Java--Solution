@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
