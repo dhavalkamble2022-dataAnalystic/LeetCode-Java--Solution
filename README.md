@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0287-find-the-duplicate-number) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
