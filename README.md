@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0202-happy-number) |
 ## Queue
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
