@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
