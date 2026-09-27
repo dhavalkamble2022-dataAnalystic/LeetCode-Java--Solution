@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -151,9 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
