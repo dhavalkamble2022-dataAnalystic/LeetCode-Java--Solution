@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0202-happy-number) |
 ## Queue
