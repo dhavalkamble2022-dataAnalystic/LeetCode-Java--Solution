@@ -1,28 +1,4 @@
-// class Solution {
-//     public int[] nextGreaterElements(int[] nums) {
-//         ArrayList<Integer> a=new ArrayList<>();
-//         a[0]=-1;
-//         Stack<Integer> s=new Stack<>();
-//         s.push(a[0]);
-//         for(int i=1; i<nums.length(); i++)
-//         {
-//             while(!s.isEmpty() && s.top<=a[i])
-//             {
-//                 s.pop();
-//                 if(s.isEmpty())
-//                 {
-//                     a[i]=-1;
-//                 }else{
-//                     a[i]=s.top();
-//                 }
-//                 s.push(a[i]);
-//             }
-
-//         }
-//         return res;
-//     }
-// }
-
+ 
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
 
