@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0202-happy-number) |
