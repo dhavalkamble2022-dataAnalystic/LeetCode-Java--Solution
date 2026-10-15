@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0202-happy-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Queue
 |  |
 | ------- |
