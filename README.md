@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -212,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
