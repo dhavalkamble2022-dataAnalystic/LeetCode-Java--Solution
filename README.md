@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/dhavalkamble2022-dataAnalystic/LeetCode-Java--Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
